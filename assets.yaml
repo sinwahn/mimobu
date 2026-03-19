@@ -1,0 +1,1135 @@
+resourcepacks:
+  embellished_stone_advancement_plaques:
+    name: Embellished Stone (Advancement Plaques)
+    source: curseforge
+    mod_id: "503839"
+  stop_minecolonies_spawning_abandoned_colonies:
+    name: Stop Minecolonies spawning abandoned colonies
+    source: curseforge
+    mod_id: "615975"
+  fresh_animations:
+    name: Fresh Animations
+    source: modrinth
+    mod_id: 50dA9Sha
+mods:
+  achievements_optimizer:
+    name: Achievements Optimizer
+    source: curseforge
+    mod_id: "912788"
+  advancement_plaques_neo_forge:
+    name: Advancement Plaques [Neo/Forge]
+    source: curseforge
+    mod_id: "499826"
+  aether_addon_enhanced_extinguishing:
+    name: 'Aether Addon: Enhanced Extinguishing'
+    source: curseforge
+    mod_id: "884860"
+  aether_s_delight:
+    name: Aether's Delight
+    source: modrinth
+    mod_id: XUztKPS9
+  alex_s_delight:
+    name: Alex's Delight
+    source: curseforge
+    mod_id: "556448"
+  alex_s_mobs:
+    name: Alex's Mobs
+    source: curseforge
+    mod_id: "426558"
+  alltheleaks_memory_leak_fix:
+    name: AllTheLeaks (Memory Leak Fix)
+    source: curseforge
+    mod_id: "1091339"
+  almanac_lib:
+    name: Almanac Lib
+    source: curseforge
+    mod_id: "1115285"
+  almost_unified:
+    name: Almost Unified
+    source: curseforge
+    mod_id: "633823"
+  ancient_reforging:
+    name: Ancient Reforging
+    source: curseforge
+    mod_id: "985468"
+  angry_pixel_the_betweenlands:
+    name: '[ANGRY PIXEL] The Betweenlands'
+    source: curseforge
+    mod_id: "243363"
+  anvil_never_too_expensive:
+    name: Anvil Never Too Expensive
+    source: curseforge
+    mod_id: "670282"
+  apotheosis:
+    name: Apotheosis
+    source: curseforge
+    mod_id: "313970"
+  apotheotic_additions:
+    name: Apotheotic Additions
+    source: curseforge
+    mod_id: "924640"
+  apotheotic_creation:
+    name: Apotheotic Creation
+    source: curseforge
+    mod_id: "956637"
+  apothic_attributes:
+    name: Apothic Attributes
+    source: curseforge
+    mod_id: "898963"
+  apothic_curios:
+    name: Apothic Curios
+    source: curseforge
+    mod_id: "950712"
+  appleskin:
+    name: AppleSkin
+    source: curseforge
+    mod_id: "248787"
+  aqua_combat:
+    name: Aqua Combat
+    source: curseforge
+    mod_id: "811194"
+  aquaculture_2:
+    name: Aquaculture 2
+    source: modrinth
+    mod_id: Vl1uNAuy
+  aquaculture_delight:
+    name: Aquaculture Delight
+    source: modrinth
+    mod_id: U9GJqWrI
+  aquamirae:
+    name: Aquamirae
+    source: modrinth
+    mod_id: k23mNPhZ
+  aquamirae_delight:
+    name: Aquamirae Delight
+    source: modrinth
+    mod_id: cCXV545X
+  aquamirae_x_better_combat_compatibility:
+    name: Aquamirae x Better Combat Compatibility
+    source: curseforge
+    mod_id: "1025844"
+  architectury_api:
+    name: Architectury API
+    source: curseforge
+    mod_id: "419699"
+  ars_nouveau:
+    name: Ars Nouveau
+    source: modrinth
+    mod_id: TKB6INcv
+  ars_nouveau_s_flavors_delight:
+    name: Ars Nouveau's Flavors & Delight
+    source: modrinth
+    mod_id: BwbT0OZE
+  ascended_quark:
+    name: Ascended Quark
+    source: curseforge
+    mod_id: "971104"
+  attributizer:
+    name: Attributizer
+    source: curseforge
+    mod_id: "838573"
+  badoptimizations:
+    name: BadOptimizations
+    source: curseforge
+    mod_id: "949555"
+  better_advancements:
+    name: Better Advancements
+    source: curseforge
+    mod_id: "272515"
+  better_combat:
+    name: Better Combat
+    source: modrinth
+    mod_id: 5sy6g3kz
+  better_combat_fabric_forge:
+    name: Better Combat [Fabric & Forge]
+    source: curseforge
+    mod_id: "639842"
+  better_combat_x_apotheosis_compat:
+    name: Better Combat x Apotheosis Compat
+    source: curseforge
+    mod_id: "986982"
+  better_treasure_map:
+    name: Better Treasure Map
+    source: curseforge
+    mod_id: "873563"
+  biomes_o_plenty:
+    name: Biomes O' Plenty
+    source: curseforge
+    mod_id: "220318"
+  biomespy:
+    name: BiomeSpy
+    source: curseforge
+    mod_id: "1376024"
+  blockui:
+    name: BlockUI
+    source: curseforge
+    mod_id: "522992"
+  bloodlines_a_vampirism_addon:
+    name: Bloodlines - A Vampirism Addon
+    source: curseforge
+    mod_id: "1073052"
+  boat_break_fix_neo_forge_fabric_quilt:
+    name: Boat Break Fix [Neo/Forge/Fabric/Quilt]
+    source: curseforge
+    mod_id: "709585"
+  caelus_api:
+    name: Caelus API
+    source: curseforge
+    mod_id: "308989"
+  cataclysm_apotheosis_addon_update_stop:
+    name: Cataclysm Apotheosis Addon (update stop)
+    source: curseforge
+    mod_id: "1009804"
+  cataclysm_spellbooks:
+    name: 'Cataclysm: Spellbooks'
+    source: modrinth
+    mod_id: 3FEg0A8D
+  cataclysm_spellbooks_bettercombat_compatibility:
+    name: 'Cataclysm: Spellbooks & BetterCombat - Compatibility'
+    source: curseforge
+    mod_id: "1335824"
+  cataclysm_x_yung_s_better_nether_fortresses_compat:
+    name: Cataclysm x YUNG's Better Nether Fortresses Compat
+    source: curseforge
+    mod_id: "1348970"
+  cataclysmic_combat:
+    name: Cataclysmic Combat
+    source: curseforge
+    mod_id: "880483"
+  cherished_worlds:
+    name: Cherished Worlds
+    source: curseforge
+    mod_id: "308240"
+  choicetheorem_s_overhauled_village:
+    name: ChoiceTheorem's Overhauled Village
+    source: modrinth
+    mod_id: fgmhI8kH
+  citadel:
+    name: Citadel
+    source: curseforge
+    mod_id: "331936"
+  clean_swing_through_grass:
+    name: Clean Swing Through Grass
+    source: curseforge
+    mod_id: "915308"
+  clickable_advancements_forge_fabric:
+    name: Clickable advancements[Forge/Fabric]
+    source: curseforge
+    mod_id: "511733"
+  client_crafting:
+    name: Client Crafting
+    source: curseforge
+    mod_id: "888790"
+  cloth_config_api_fabric_forge_neoforge:
+    name: Cloth Config API (Fabric/Forge/NeoForge)
+    source: curseforge
+    mod_id: "348521"
+  collective:
+    name: Collective
+    source: curseforge
+    mod_id: "342584"
+  configured:
+    name: Configured
+    source: curseforge
+    mod_id: "457570"
+  controlling:
+    name: Controlling
+    source: modrinth
+    mod_id: xv94TkTM
+  corgilib:
+    name: CorgiLib
+    source: curseforge
+    mod_id: "693313"
+  cosmetic_armor_reworked:
+    name: Cosmetic Armor Reworked
+    source: curseforge
+    mod_id: "237307"
+  create:
+    name: Create
+    source: curseforge
+    mod_id: "328085"
+  create_big_cannons:
+    name: Create Big Cannons
+    source: curseforge
+    mod_id: "646668"
+  create_big_cannons_advanced_technologies:
+    name: 'Create Big Cannons: Advanced Technologies'
+    source: curseforge
+    mod_id: "1180196"
+  create_connected:
+    name: 'Create: Connected'
+    source: curseforge
+    mod_id: "947914"
+  create_create_o_plenty_create_biomes_o_plenty_mod_compat:
+    name: "Create: Create O' Plenty (Create + Biomes O' Plenty Mod compat)"
+    source: curseforge
+    mod_id: "1351997"
+  create_enchantment_industry:
+    name: 'Create: Enchantment Industry'
+    source: curseforge
+    mod_id: "688768"
+  create_new_beginnings:
+    name: 'Create: New Beginnings'
+    source: modrinth
+    mod_id: XDDw6edF
+  create_rustic_structures:
+    name: 'Create: Rustic Structures'
+    source: modrinth
+    mod_id: lmbZMkEZ
+  create_sifting:
+    name: Create Sifting
+    source: curseforge
+    mod_id: "661938"
+  create_slice_dice:
+    name: Create Slice & Dice
+    source: curseforge
+    mod_id: "659674"
+  create_structures:
+    name: 'Create: Structures'
+    source: modrinth
+    mod_id: IAnP4np7
+  create_structures_arise:
+    name: 'Create: Structures Arise'
+    source: modrinth
+    mod_id: 9enMEvoc
+  create_structures_overhaul:
+    name: 'Create: structures overhaul'
+    source: modrinth
+    mod_id: VOKKVKJQ
+  create_structures_overhaul_bop_integration:
+    name: 'Create: Structures Overhaul - BOP integration'
+    source: modrinth
+    mod_id: 3l3EJLJC
+  create_ultimate_factory:
+    name: 'Create: Ultimate Factory'
+    source: curseforge
+    mod_id: "978125"
+  create_wizardry:
+    name: 'Create: Wizardry'
+    source: modrinth
+    mod_id: OeGdeWEj
+  creather:
+    name: Creather
+    source: curseforge
+    mod_id: "1044832"
+  croptopia:
+    name: Croptopia
+    source: curseforge
+    mod_id: "415438"
+  ctov_all_bark_all_bites_compat:
+    name: CTOV - All Bark, All Bites compat
+    source: modrinth
+    mod_id: xoS29PoB
+  ctov_create_structures:
+    name: 'CTOV - Create: Structures'
+    source: modrinth
+    mod_id: l9fldtN4
+  ctov_domesticated_innovation_compat:
+    name: CTOV - Domesticated Innovation Compat
+    source: modrinth
+    mod_id: BORRKwOq
+  ctov_floralis_compat:
+    name: CTOV - Floralis Compat
+    source: modrinth
+    mod_id: t2YHGsHK
+  ctov_monobank_compat:
+    name: CTOV -  Monobank compat
+    source: modrinth
+    mod_id: S313KZR3
+  ctov_rats_compat:
+    name: CTOV - Rats Compat
+    source: modrinth
+    mod_id: K7YhuIBe
+  ctov_savage_and_ravage_compat:
+    name: CTOV - Savage and Ravage Compat
+    source: modrinth
+    mod_id: p7P0HjJw
+  ctov_wares_compat:
+    name: CTOV - Wares compat
+    source: modrinth
+    mod_id: ikXYiASk
+  cupboard:
+    name: Cupboard
+    source: curseforge
+    mod_id: "326652"
+  curios_api:
+    name: Curios API
+    source: modrinth
+    mod_id: vvuO3ImH
+  dark_mode_everywhere:
+    name: Dark Mode Everywhere
+    source: curseforge
+    mod_id: "574123"
+  data_anchor:
+    name: Data Anchor
+    source: curseforge
+    mod_id: "1203668"
+  deep_aether:
+    name: Deep Aether
+    source: curseforge
+    mod_id: "852465"
+  dis_enchanting_table:
+    name: Dis-Enchanting Table
+    source: modrinth
+    mod_id: 9BgYgXE4
+  domum_ornamentum:
+    name: Domum Ornamentum
+    source: curseforge
+    mod_id: "527361"
+  double_doors:
+    name: Double Doors
+    source: curseforge
+    mod_id: "348831"
+  dungeons_enhanced_lootintegrations_addon:
+    name: Dungeons Enhanced Lootintegrations Addon
+    source: curseforge
+    mod_id: "1008041"
+  durability_tooltip:
+    name: Durability Tooltip
+    source: curseforge
+    mod_id: "511040"
+  dynamic_fps:
+    name: Dynamic FPS
+    source: modrinth
+    mod_id: LQ3K71Q1
+  elytra_slot:
+    name: Elytra Slot
+    source: curseforge
+    mod_id: "317716"
+  emi:
+    name: EMI
+    source: modrinth
+    mod_id: fRiHVvU7
+  emi_addon_extra_mod_integrations:
+    name: 'EMI Addon: Extra Mod Integrations'
+    source: modrinth
+    mod_id: bpRHnWUb
+  emi_enchanting:
+    name: EMI Enchanting
+    source: modrinth
+    mod_id: wbWoo11W
+  emi_loot:
+    name: EMI Loot
+    source: modrinth
+    mod_id: qbbO7Jns
+  emiffect:
+    name: EMIffect
+    source: modrinth
+    mod_id: 705gWllI
+  enchantment_descriptions:
+    name: Enchantment Descriptions
+    source: modrinth
+    mod_id: UVtY3ZAC
+  ender_s_delight:
+    name: Ender's Delight
+    source: curseforge
+    mod_id: "827163"
+  enhanced_celestials_blood_blue_harvest_super_moons:
+    name: Enhanced Celestials - Blood, Blue, & Harvest (Super) Moons
+    source: curseforge
+    mod_id: "438447"
+  enigmatic_addons:
+    name: Enigmatic Addons
+    source: curseforge
+    mod_id: "1030121"
+  enigmatic_legacy:
+    name: Enigmatic Legacy
+    source: curseforge
+    mod_id: "336184"
+  entity_culling:
+    name: Entity Culling
+    source: modrinth
+    mod_id: NNAgCjsB
+  epherolib:
+    name: EpheroLib
+    source: curseforge
+    mod_id: "885449"
+  explorer_s_compass:
+    name: Explorer's Compass
+    source: curseforge
+    mod_id: "491794"
+  fallen_gems_affixes:
+    name: Fallen Gems & Affixes
+    source: curseforge
+    mod_id: "1286177"
+  farmer_s_delight:
+    name: Farmer's Delight
+    source: curseforge
+    mod_id: "398521"
+  farmer_s_delight_croptopia:
+    name: Farmer's (Delight) Croptopia
+    source: curseforge
+    mod_id: "1132546"
+  fastworkbench:
+    name: FastWorkbench
+    source: curseforge
+    mod_id: "288885"
+  ferritecore:
+    name: FerriteCore
+    source: modrinth
+    mod_id: uXXizFIs
+  fps_reducer:
+    name: FPS Reducer
+    source: curseforge
+    mod_id: "280294"
+  framework:
+    name: Framework
+    source: curseforge
+    mod_id: "549225"
+  fungal_infection_spore:
+    name: 'Fungal Infection: Spore'
+    source: curseforge
+    mod_id: "678295"
+  fzzy_config:
+    name: Fzzy Config
+    source: curseforge
+    mod_id: "1005914"
+  glitchcore:
+    name: GlitchCore
+    source: curseforge
+    mod_id: "955399"
+  goblin_traders:
+    name: Goblin Traders
+    source: curseforge
+    mod_id: "363703"
+  guard_villagers:
+    name: Guard Villagers
+    source: curseforge
+    mod_id: "360203"
+  hazen_n_stuff:
+    name: Hazen 'N Stuff
+    source: curseforge
+    mod_id: "1231627"
+  ice_and_fire_delight_farmer_s_delight_ice_and_fire_add_on:
+    name: Ice and Fire Delight ( Farmer's Delight & Ice and Fire Add-on)
+    source: modrinth
+    mod_id: 35MH7Q1p
+  ice_and_fire_dragons:
+    name: 'Ice and Fire: Dragons'
+    source: curseforge
+    mod_id: "264231"
+  ice_and_fire_dragons_x_better_combat:
+    name: Ice and Fire Dragons X Better Combat
+    source: curseforge
+    mod_id: "1105606"
+  ice_and_fire_spellbooks:
+    name: 'Ice and Fire: Spellbooks'
+    source: curseforge
+    mod_id: "977855"
+  iceberg_neo_forge:
+    name: Iceberg [Neo/Forge]
+    source: curseforge
+    mod_id: "520110"
+  immediatelyfast:
+    name: ImmediatelyFast
+    source: modrinth
+    mod_id: 5ZwdcRci
+  improved_village_placement:
+    name: Improved Village Placement
+    source: curseforge
+    mod_id: "1175325"
+  in_control:
+    name: In Control!
+    source: curseforge
+    mod_id: "257356"
+  incendium:
+    name: Incendium
+    source: curseforge
+    mod_id: "591388"
+  integrated_simply_swords:
+    name: Integrated Simply Swords
+    source: curseforge
+    mod_id: "1176760"
+  inventory_sorter_configurable:
+    name: Inventory Sorter (Configurable)
+    source: curseforge
+    mod_id: "1090771"
+  iron_s_spells_n_spellbooks:
+    name: Iron's Spells 'n Spellbooks
+    source: curseforge
+    mod_id: "855414"
+  iron_s_spells_n_spellbooks_scroll_description:
+    name: Iron's Spells 'n Spellbooks - Scroll Description
+    source: curseforge
+    mod_id: "1454137"
+  item_borders_neo_forge:
+    name: Item Borders [Neo/Forge]
+    source: curseforge
+    mod_id: "513769"
+  item_highlighter_neo_forge:
+    name: Item Highlighter [Neo/Forge]
+    source: curseforge
+    mod_id: "521590"
+  jade:
+    name: "Jade �\x8D"
+    source: curseforge
+    mod_id: "324717"
+  jade_addons_neo_forge:
+    name: Jade Addons (Neo/Forge)
+    source: curseforge
+    mod_id: "583345"
+  jadecolonies:
+    name: JadeColonies
+    source: curseforge
+    mod_id: "882310"
+  just_enough_items_jei:
+    name: Just Enough Items (JEI)
+    source: curseforge
+    mod_id: "238222"
+  just_enough_resources_jer:
+    name: Just Enough Resources (JER)
+    source: curseforge
+    mod_id: "240630"
+  kotlin_for_forge:
+    name: Kotlin for Forge
+    source: curseforge
+    mod_id: "351264"
+  l_ender_s_cataclysm:
+    name: L_Ender 's Cataclysm
+    source: curseforge
+    mod_id: "551586"
+  l_ender_s_cataclysm_delight:
+    name: L_Ender 's Cataclysm Delight
+    source: curseforge
+    mod_id: "1165928"
+  let_me_despawn:
+    name: Let Me Despawn
+    source: curseforge
+    mod_id: "663477"
+  let_s_do_addon_emi_compat:
+    name: "[Let's Do Addon] EMI Compat"
+    source: modrinth
+    mod_id: k6hi4lMv
+  lionfish_api:
+    name: Lionfish-API
+    source: modrinth
+    mod_id: FoVacERa
+  lithostitched:
+    name: Lithostitched
+    source: modrinth
+    mod_id: XaDC71GB
+  loot_beams_relooted:
+    name: 'Loot Beams: Relooted!'
+    source: curseforge
+    mod_id: "506757"
+  loot_integrations:
+    name: Loot Integrations
+    source: curseforge
+    mod_id: "580689"
+  loot_integrations_ati_structures_epic_structures_villages_witch_huts:
+    name: 'Loot Integrations: ATi Structures, Epic Structures Villages & Witch Huts'
+    source: curseforge
+    mod_id: "1420613"
+  loot_integrations_awesome_dungeon:
+    name: 'Loot Integrations: Awesome Dungeon'
+    source: curseforge
+    mod_id: "1129961"
+  loot_integrations_better_archeology:
+    name: 'Loot Integrations: Better Archeology'
+    source: curseforge
+    mod_id: "1130800"
+  loot_integrations_born_in_chaos:
+    name: 'Loot Integrations: Born in Chaos'
+    source: curseforge
+    mod_id: "1420691"
+  loot_integrations_bygone_nether_eternal_nether_it_takes_a_pillage:
+    name: 'Loot Integrations: Bygone Nether & Eternal Nether & It Takes a Pillage'
+    source: curseforge
+    mod_id: "1133600"
+  loot_integrations_choicetheorem_s_overhauled_village_immersive_structures:
+    name: "Loot Integrations: ChoiceTheorem's Overhauled Village & Immersive Structures"
+    source: curseforge
+    mod_id: "1135500"
+  loot_integrations_dungeon_crawl:
+    name: 'Loot Integrations: Dungeon Crawl'
+    source: curseforge
+    mod_id: "1137456"
+  loot_integrations_dungeons_and_taverns:
+    name: 'Loot Integrations: Dungeons and Taverns'
+    source: curseforge
+    mod_id: "1139414"
+  loot_integrations_dungeons_plus:
+    name: 'Loot Integrations: Dungeons Plus'
+    source: curseforge
+    mod_id: "1146857"
+  loot_integrations_formations_overworld_nether:
+    name: 'Loot Integrations: Formations Overworld & Nether'
+    source: curseforge
+    mod_id: "1146867"
+  loot_integrations_hopo_better_mineshaft_ruins_portals:
+    name: 'Loot Integrations: Hopo Better Mineshaft, Ruins & Portals'
+    source: curseforge
+    mod_id: "1149268"
+  loot_integrations_ice_and_fire:
+    name: 'Loot Integrations: Ice and Fire'
+    source: curseforge
+    mod_id: "1272782"
+  loot_integrations_integrated_dungeons_villages_strongholds_cataclysm:
+    name: 'Loot Integrations: Integrated Dungeons, Villages & Strongholds & Cataclysm'
+    source: curseforge
+    mod_id: "1149272"
+  loot_integrations_l_ender_s_cataclysm:
+    name: "Loot Integrations: L_Ender 's Cataclysm"
+    source: curseforge
+    mod_id: "1134260"
+  loot_integrations_medieval_buildings_end_nether:
+    name: 'Loot Integrations: Medieval Buildings & End & Nether'
+    source: curseforge
+    mod_id: "1149287"
+  loot_integrations_moog_s_voyager_soaring_end_nether_structures:
+    name: "Loot Integrations: Moog's Voyager, Soaring, End & Nether Structures"
+    source: curseforge
+    mod_id: "1152715"
+  loot_integrations_philip_s_ruins:
+    name: "Loot Integrations: Philip's Ruins"
+    source: curseforge
+    mod_id: "1152718"
+  loot_integrations_randomized_loot_compatibility:
+    name: 'Loot Integrations: Randomized Loot Compatibility'
+    source: curseforge
+    mod_id: "1128055"
+  loot_integrations_structory_towers:
+    name: 'Loot Integrations: Structory & Towers'
+    source: curseforge
+    mod_id: "1152720"
+  loot_integrations_the_graveyard:
+    name: 'Loot Integrations: The Graveyard'
+    source: curseforge
+    mod_id: "1146846"
+  loot_integrations_the_lost_castle:
+    name: 'Loot Integrations: The Lost Castle'
+    source: curseforge
+    mod_id: "1152731"
+  loot_integrations_underground_villages_stoneholm:
+    name: 'Loot Integrations: Underground Villages, Stoneholm'
+    source: curseforge
+    mod_id: "1421720"
+  loot_integrations_valhelsia_structures:
+    name: 'Loot Integrations: Valhelsia Structures'
+    source: curseforge
+    mod_id: "1152735"
+  lootr:
+    name: Lootr
+    source: modrinth
+    mod_id: EltpO5cN
+  macaw_s_paintings:
+    name: Macaw's Paintings
+    source: curseforge
+    mod_id: "438116"
+  memory_leak_fix:
+    name: Memory Leak Fix
+    source: modrinth
+    mod_id: NRjRiSSD
+  minecolonies:
+    name: MineColonies
+    source: curseforge
+    mod_id: "245506"
+  model_gap_fix:
+    name: Model Gap Fix
+    source: curseforge
+    mod_id: "676136"
+  monobank:
+    name: Monobank
+    source: modrinth
+    mod_id: 3bSjQuE3
+  more_overlays_updated:
+    name: More Overlays Updated
+    source: modrinth
+    mod_id: Thy5Pqut
+  mouse_tweaks:
+    name: Mouse Tweaks
+    source: curseforge
+    mod_id: "60089"
+  multi_piston:
+    name: Multi-Piston
+    source: curseforge
+    mod_id: "303278"
+  neko_s_enchanted_books:
+    name: Neko's Enchanted Books
+    source: curseforge
+    mod_id: "441114"
+  nether_s_delight:
+    name: Nether's Delight
+    source: curseforge
+    mod_id: "496394"
+  not_enough_recipe_book_nerb:
+    name: Not Enough Recipe Book [NERB]
+    source: curseforge
+    mod_id: "738663"
+  obscure_api:
+    name: Obscure API
+    source: modrinth
+    mod_id: fU7jbFHc
+  ocean_s_delight:
+    name: Ocean's Delight
+    source: curseforge
+    mod_id: "841262"
+  particle_core:
+    name: Particle Core
+    source: curseforge
+    mod_id: "985426"
+  patchouli:
+    name: Patchouli
+    source: curseforge
+    mod_id: "306770"
+  pehkui:
+    name: Pehkui
+    source: curseforge
+    mod_id: "319596"
+  placebo:
+    name: Placebo
+    source: curseforge
+    mod_id: "283644"
+  playeranimator:
+    name: playerAnimator
+    source: curseforge
+    mod_id: "658587"
+  quark:
+    name: Quark
+    source: curseforge
+    mod_id: "243121"
+  rebind_narrator:
+    name: Rebind Narrator
+    source: modrinth
+    mod_id: qw2Ls89j
+  ritchie_s_projectile_library:
+    name: Ritchie's Projectile Library
+    source: curseforge
+    mod_id: "1279407"
+  scape_and_run_parasites:
+    name: 'Scape and Run: Parasites'
+    source: modrinth
+    mod_id: MJX7HTHx
+  scape_and_run_parasites_extra:
+    name: 'Scape and Run: Parasites Extra'
+    source: modrinth
+    mod_id: 8uMBjrsG
+  searchables:
+    name: Searchables
+    source: modrinth
+    mod_id: fuuu3xnx
+  serene_seasons:
+    name: Serene Seasons
+    source: curseforge
+    mod_id: "291874"
+  shatterlib_octolib:
+    name: ShatterLib | OctoLib
+    source: curseforge
+    mod_id: "916747"
+  simple_weapons_for_better_combat:
+    name: Simple Weapons for Better Combat
+    source: curseforge
+    mod_id: "681693"
+  simply_swords_cataclysm:
+    name: 'Simply Swords: Cataclysm'
+    source: modrinth
+    mod_id: iAWmQpER
+  simply_swords_fabric_forge:
+    name: Simply Swords [Fabric & Forge]
+    source: curseforge
+    mod_id: "659887"
+  smallcolonies_for_minecolonies:
+    name: SmallColonies for Minecolonies
+    source: curseforge
+    mod_id: "1232237"
+  snowy_biomes_enhanced:
+    name: 'Snowy Biomes: Enhanced'
+    source: modrinth
+    mod_id: qW8hUuD1
+  sophisticated_backpacks:
+    name: Sophisticated Backpacks
+    source: curseforge
+    mod_id: "422301"
+  sophisticated_core:
+    name: Sophisticated Core
+    source: curseforge
+    mod_id: "618298"
+  spartan_shields:
+    name: Spartan Shields
+    source: curseforge
+    mod_id: "252239"
+  spartan_weaponry:
+    name: Spartan Weaponry
+    source: curseforge
+    mod_id: "278141"
+  spartan_weaponry_addon_toolkit:
+    name: Spartan Weaponry Addon Toolkit
+    source: curseforge
+    mod_id: "1051658"
+  spartan_weaponry_aether:
+    name: 'Spartan Weaponry: Aether'
+    source: curseforge
+    mod_id: "1062314"
+  spartan_weaponry_cataclysm:
+    name: 'Spartan Weaponry: Cataclysm'
+    source: curseforge
+    mod_id: "1379475"
+  spartan_weaponry_ice_and_fire:
+    name: 'Spartan Weaponry: Ice and Fire'
+    source: curseforge
+    mod_id: "606315"
+  spartan_weaponry_twilight_forest:
+    name: 'Spartan Weaponry: Twilight Forest'
+    source: curseforge
+    mod_id: "533570"
+  spartan_weaponry_undergarden:
+    name: 'Spartan Weaponry: Undergarden'
+    source: curseforge
+    mod_id: "1067620"
+  spice_of_life_carrot_edition:
+    name: 'Spice of Life: Carrot Edition'
+    source: curseforge
+    mod_id: "277616"
+  structurize:
+    name: Structurize
+    source: curseforge
+    mod_id: "298744"
+  stylecolonies:
+    name: Stylecolonies
+    source: curseforge
+    mod_id: "827507"
+  supermartijn642_s_config_lib:
+    name: SuperMartijn642's Config Lib
+    source: curseforge
+    mod_id: "438332"
+  tax_free_levels:
+    name: Tax Free Levels
+    source: curseforge
+    mod_id: "462128"
+  the_abyss_ii_the_other_side:
+    name: The Abyss II - The Other Side
+    source: curseforge
+    mod_id: "440647"
+  the_aether:
+    name: The Aether
+    source: curseforge
+    mod_id: "255308"
+  the_aether_redux:
+    name: 'The Aether: Redux'
+    source: curseforge
+    mod_id: "867237"
+  the_betweenlands_eternal_melodies:
+    name: 'The Betweenlands: Eternal Melodies'
+    source: curseforge
+    mod_id: "815791"
+  the_deep_void:
+    name: The Deep Void
+    source: curseforge
+    mod_id: "982999"
+  the_graveyard_forge_neoforge:
+    name: The Graveyard (FORGE/NEOFORGE)
+    source: curseforge
+    mod_id: "531188"
+  the_twilight_forest:
+    name: The Twilight Forest
+    source: curseforge
+    mod_id: "227639"
+  the_undergarden:
+    name: The Undergarden
+    source: curseforge
+    mod_id: "379849"
+  titles:
+    name: Titles
+    source: curseforge
+    mod_id: "304675"
+  tough_as_nails:
+    name: Tough As Nails
+    source: curseforge
+    mod_id: "246391"
+  towns_and_towers:
+    name: Towns and Towers
+    source: modrinth
+    mod_id: DjLobEOy
+  towntalk:
+    name: TownTalk
+    source: curseforge
+    mod_id: "900364"
+  traveler_s_titles:
+    name: Traveler's Titles
+    source: modrinth
+    mod_id: JtifUr64
+  traveler_s_titles_forge_neoforge:
+    name: Traveler's Titles (Forge/NeoForge)
+    source: curseforge
+    mod_id: "504908"
+  twilight_forest_dungeons_villages:
+    name: Twilight Forest - Dungeons & Villages
+    source: curseforge
+    mod_id: "1271268"
+  twilight_s_flavors_delight:
+    name: Twilight's Flavors & Delight
+    source: curseforge
+    mod_id: "871735"
+  umbral_skies:
+    name: Umbral Skies
+    source: curseforge
+    mod_id: "855821"
+  undergarden_delight:
+    name: Undergarden Delight
+    source: modrinth
+    mod_id: H340jsJv
+  vampire_s_delight:
+    name: Vampire's Delight
+    source: modrinth
+    mod_id: 9Vo2deFq
+  vampiric_ageing_a_vampirism_addon:
+    name: Vampiric Ageing - A Vampirism Addon
+    source: curseforge
+    mod_id: "906331"
+  vampirism:
+    name: Vampirism
+    source: modrinth
+    mod_id: jVZ0F1wn
+  vampirism_become_a_vampire:
+    name: Vampirism - Become a vampire!
+    source: curseforge
+    mod_id: "233029"
+  vampirism_integrations:
+    name: Vampirism Integrations
+    source: curseforge
+    mod_id: "282433"
+  villagersplus_forge:
+    name: VillagersPlus (FORGE)
+    source: curseforge
+    mod_id: "817272"
+  virtual_witch_arrangement:
+    name: Virtual Witch Arrangement
+    source: curseforge
+    mod_id: "1343972"
+  wares:
+    name: Wares
+    source: modrinth
+    mod_id: Jz71ddli
+  waystones:
+    name: Waystones
+    source: curseforge
+    mod_id: "245755"
+  waystones_teleport_pets:
+    name: Waystones Teleport Pets
+    source: curseforge
+    mod_id: "908310"
+  werewolves_become_a_beast:
+    name: Werewolves - Become a Beast!
+    source: curseforge
+    mod_id: "417851"
+  xaero_s_minimap:
+    name: Xaero's Minimap
+    source: curseforge
+    mod_id: "263420"
+  xaero_s_minimap_and_waystones_compatibility:
+    name: Xaero's Minimap and Waystones Compatibility
+    source: curseforge
+    mod_id: "1414507"
+  xaero_s_minimap_world_map_waystones_compatibility_forge:
+    name: Xaero's Minimap & World Map - Waystones Compatibility [Forge]
+    source: curseforge
+    mod_id: "887484"
+  xaero_s_world_map:
+    name: Xaero's World Map
+    source: curseforge
+    mod_id: "317780"
+  xaerolib:
+    name: XaeroLib
+    source: curseforge
+    mod_id: "1417462"
+  yung_s_better_caves_forge_neoforge:
+    name: YUNG's Better Caves (Forge/NeoForge)
+    source: curseforge
+    mod_id: "340583"
+  yung_s_better_desert_temples_forge_neoforge:
+    name: YUNG's Better Desert Temples (Forge/NeoForge)
+    source: curseforge
+    mod_id: "631016"
+  yung_s_better_desert_temples_neoforge:
+    name: YUNG's Better Desert Temples (NeoForge)
+    source: curseforge
+    mod_id: "1015114"
+  yung_s_better_dungeons_forge_neoforge:
+    name: YUNG's Better Dungeons (Forge/NeoForge)
+    source: curseforge
+    mod_id: "510089"
+  yung_s_better_dungeons_neoforge:
+    name: YUNG's Better Dungeons (NeoForge)
+    source: curseforge
+    mod_id: "1015112"
+  yung_s_better_end_island_forge_neoforge:
+    name: YUNG's Better End Island (Forge/NeoForge)
+    source: curseforge
+    mod_id: "901344"
+  yung_s_better_end_island_neoforge:
+    name: YUNG's Better End Island (NeoForge)
+    source: curseforge
+    mod_id: "1015127"
+  yung_s_better_jungle_temples_forge_neoforge:
+    name: YUNG's Better Jungle Temples (Forge/NeoForge)
+    source: curseforge
+    mod_id: "897669"
+  yung_s_better_jungle_temples_neoforge:
+    name: YUNG's Better Jungle Temples (NeoForge)
+    source: curseforge
+    mod_id: "1015123"
+  yung_s_better_mineshafts_forge_neoforge:
+    name: YUNG's Better Mineshafts (Forge/NeoForge)
+    source: curseforge
+    mod_id: "389665"
+  yung_s_better_mineshafts_neoforge:
+    name: YUNG's Better Mineshafts (NeoForge)
+    source: curseforge
+    mod_id: "1015096"
+  yung_s_better_nether_fortresses_forge_neoforge:
+    name: YUNG's Better Nether Fortresses (Forge/NeoForge)
+    source: curseforge
+    mod_id: "817651"
+  yung_s_better_nether_fortresses_neoforge:
+    name: YUNG's Better Nether Fortresses (NeoForge)
+    source: curseforge
+    mod_id: "1015118"
+  yung_s_better_ocean_monuments_forge_neoforge:
+    name: YUNG's Better Ocean Monuments (Forge/NeoForge)
+    source: curseforge
+    mod_id: "689238"
+  yung_s_better_ocean_monuments_neoforge:
+    name: YUNG's Better Ocean Monuments (NeoForge)
+    source: curseforge
+    mod_id: "1015115"
+  yung_s_better_strongholds_forge_neoforge:
+    name: YUNG's Better Strongholds (Forge/NeoForge)
+    source: curseforge
+    mod_id: "465575"
+  yung_s_better_strongholds_neoforge:
+    name: YUNG's Better Strongholds (NeoForge)
+    source: curseforge
+    mod_id: "1015105"
+  yung_s_better_witch_huts_forge_neoforge:
+    name: YUNG's Better Witch Huts (Forge/NeoForge)
+    source: curseforge
+    mod_id: "631401"
+  yung_s_better_witch_huts_neoforge:
+    name: YUNG's Better Witch Huts (NeoForge)
+    source: curseforge
+    mod_id: "1015144"
+  yung_s_bridges_forge_neoforge:
+    name: YUNG's Bridges (Forge/NeoForge)
+    source: curseforge
+    mod_id: "536660"
+  yung_s_bridges_neoforge:
+    name: YUNG's Bridges (NeoForge)
+    source: curseforge
+    mod_id: "1015149"
+  yung_s_cave_biomes_forge_neoforge:
+    name: YUNG's Cave Biomes (Forge/NeoForge)
+    source: curseforge
+    mod_id: "1111586"
+  yung_s_extras_forge_neoforge:
+    name: YUNG's Extras (Forge/NeoForge)
+    source: curseforge
+    mod_id: "480006"
+  yung_s_extras_neoforge:
+    name: YUNG's Extras (NeoForge)
+    source: curseforge
+    mod_id: "1015146"
+  zeta:
+    name: Zeta
+    source: curseforge
+    mod_id: "968868"
+
