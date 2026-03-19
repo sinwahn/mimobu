@@ -1,0 +1,416 @@
+# for cases when theres a mod that has another separate version
+# either as a back*port or for a different platform
+platform_mods:
+  traveler_s_titles:
+    - traveler_s_titles
+    - traveler_s_titles_forge_neoforge
+  yung_s_better_desert_temples:
+    - yung_s_better_desert_temples_forge_neoforge
+    - yung_s_better_desert_temples_neoforge
+  yung_s_better_dungeons:
+    - yung_s_better_dungeons_forge_neoforge
+    - yung_s_better_dungeons_neoforge
+  yung_s_better_end_island:
+    - yung_s_better_end_island_forge_neoforge
+    - yung_s_better_end_island_neoforge
+  yung_s_better_jungle_temples:
+    - yung_s_better_jungle_temples_forge_neoforge
+    - yung_s_better_jungle_temples_neoforge
+  yung_s_better_mineshafts:
+    - yung_s_better_mineshafts_forge_neoforge
+    - yung_s_better_mineshafts_neoforge
+  yung_s_better_nether_fortresses:
+    - yung_s_better_nether_fortresses_forge_neoforge
+    - yung_s_better_nether_fortresses_neoforge
+  yung_s_better_ocean_monuments:
+    - yung_s_better_ocean_monuments_forge_neoforge
+    - yung_s_better_ocean_monuments_neoforge
+  yung_s_better_strongholds:
+    - yung_s_better_strongholds_forge_neoforge
+    - yung_s_better_strongholds_neoforge
+  yung_s_better_witch_huts:
+    - yung_s_better_witch_huts_forge_neoforge
+    - yung_s_better_witch_huts_neoforge
+  yung_s_bridges:
+    - yung_s_bridges_forge_neoforge
+    - yung_s_bridges_neoforge
+  yung_s_extras:
+    - yung_s_extras_forge_neoforge
+    - yung_s_extras_neoforge
+
+main_modules:
+  xpfix:
+    mods:
+      - anvil_never_too_expensive
+      - tax_free_levels
+  biomes_o_plenty:
+    mods:
+      - biomes_o_plenty
+  dim:
+    mods:
+      - biomespy
+      - snowy_biomes_enhanced
+      - lootr
+      - macaw_s_paintings
+    platform_mods:
+      - traveler_s_titles
+  structs:
+    mods:
+      - valhelsia_structures
+  survive:
+    mods:
+      - serene_seasons
+      - tough_as_nails
+  waystones:
+    mods:
+      - waystones
+      - waystones_teleport_pets
+  xaero:
+    mods:
+      - xaero_s_minimap
+      - xaero_s_world_map
+  config:
+    mods:
+      - controlling
+      - configured
+      - rebind_narrator
+      - searchables
+      - in_control
+  controls:
+    mods:
+      - mouse_tweaks
+  minecolonies:
+    mods:
+      - stylecolonies
+      - smallcolonies_for_minecolonies
+      - minecolonies
+    resourcepacks:
+      - stop_minecolonies_spawning_abandoned_colonies: { pinned: true }
+  advancements:
+    mods:
+      - advancement_plaques_neo_forge
+      - better_advancements
+      - clickable_advancements_forge_fabric
+      - achievements_optimizer
+  vampires_wolves:
+    mods:
+      - vampirism_become_a_vampire
+      - werewolves_become_a_beast
+      - vampiric_ageing_a_vampirism_addon
+      - bloodlines_a_vampirism_addon
+      - vampirism_integrations
+  create:
+    mods:
+      - create
+      - create_ultimate_factory
+      - create_connected
+      - create_sifting
+      - create_enchantment_industry
+  betweenlands:
+    mods:
+      - angry_pixel_the_betweenlands
+      - the_betweenlands_eternal_melodies
+  undergarden:
+    mods:
+      - the_undergarden
+  better_combat:
+    mods:
+      - better_combat
+  apotheosis:
+    mods:
+      - apotheosis
+      - apotheotic_additions
+      - fallen_gems_affixes
+      - apothic_curios
+      - ancient_reforging
+  iron_s_spells_n_spellbooks:
+    mods:
+      - iron_s_spells_n_spellbooks
+      - iron_s_spells_n_spellbooks_scroll_description
+      - hazen_n_stuff
+  l_ender_s_cataclysm:
+    mods:
+      - l_ender_s_cataclysm
+  alex_s_mobs:
+    mods:
+      - alex_s_mobs
+  village:
+    mods:
+      - improved_village_placement
+      - villagersplus_forge
+  jade:
+    mods:
+      - jade
+      - jade_addons_neo_forge
+  optimizaion:
+    mods:
+      - memory_leak_fix
+      - entity_culling
+      - dynamic_fps
+      - ferritecore
+      - badoptimizations
+      - alltheleaks_memory_leak_fix
+      - let_me_despawn
+      - fps_reducer
+      - particle_core
+      - client_crafting
+  ui:
+    mods:
+      - appleskin
+      - durability_tooltip
+      - cherished_worlds
+      - dark_mode_everywhere
+      - item_borders_neo_forge
+      - item_highlighter_neo_forge
+  items:
+    mods:
+      - loot_beams_relooted
+  gameplay:
+    mods:
+      - better_treasure_map
+      - clean_swing_through_grass
+      - double_doors
+      - goblin_traders
+  fungal_infection:
+    mods:
+      - fungal_infection_spore
+  scape_parasites:
+    mods:
+      - scape_and_run_parasites
+      - scape_and_run_parasites_extra
+  emi:
+    mods:
+      - emi
+      - emi_addon_extra_mod_integrations
+      - emi_enchanting
+      - emi_loot
+      - emiffect
+      - let_s_do_addon_emi_compat
+  jei:
+    mods:
+      - just_enough_items_jei
+      - just_enough_resources_jer
+  enigmatic_legacy:
+    mods:
+      - enigmatic_legacy
+      - enigmatic_addons
+  aether:
+    mods:
+      - the_aether
+      - deep_aether
+      - the_aether_redux
+  graveyard:
+    mods:
+      - the_graveyard_forge_neoforge
+      - loot_integrations_the_graveyard
+  voidNabyss:
+    mods:
+      - the_deep_void
+      - the_abyss_ii_the_other_side
+  enchantmentAddons:
+    mods:
+      - dis_enchanting_table
+  book_info:
+    mods:
+      - enchantment_descriptions
+      - neko_s_enchanted_books
+  me:
+    mods:
+      - titles
+      - cosmetic_armor_reworked
+      - model_gap_fix
+  yung:
+    mods:
+      - yung_s_better_caves_forge_neoforge
+      - yung_s_cave_biomes_forge_neoforge
+    platform_mods:
+      - yung_s_better_desert_temples
+      - yung_s_better_dungeons
+      - yung_s_better_end_island
+      - yung_s_better_jungle_temples
+      - yung_s_better_mineshafts
+      - yung_s_better_nether_fortresses
+      - yung_s_better_ocean_monuments
+      - yung_s_better_strongholds
+      - yung_s_better_witch_huts
+      - yung_s_bridges
+      - yung_s_extras
+  aquamirae:
+    mods:
+      - aquamirae
+  croptopia:
+    mods:
+      - croptopia
+  aquaculture_2:
+    mods:
+      - aquaculture_2
+  simply_swords:
+    mods:
+      - simply_swords_fabric_forge
+  spartan_weaponry:
+    mods:
+      - spartan_weaponry
+      - spartan_shields
+      - spartan_weaponry_addon_toolkit
+  twilight_forest:
+    mods:
+      - the_twilight_forest
+      - twilight_forest_dungeons_villages
+  ars_nouveau:
+    mods:
+      - ars_nouveau
+  quark:
+    mods:
+      - quark
+  farmer_s_delight:
+    mods:
+      - farmer_s_delight
+      - nether_s_delight
+      - ocean_s_delight
+      - ender_s_delight
+
+sub_modules:
+  create_cannons:
+    depends_module:
+      - create
+    mods:
+      - create_big_cannons
+      - create_big_cannons_advanced_technologies
+  create_structs:
+    depends_module:
+      - create
+    mods:
+      - create_new_beginnings
+      - create_rustic_structures
+      - create_structures
+      - create_structures_arise
+      - create_structures_overhaul
+  towns_and_towers:
+    depends_module:
+      - village
+    mods:
+      - towns_and_towers
+  village_ctov:
+    depends_module:
+      - village
+    mods:
+      - choicetheorem_s_overhauled_village
+      - guard_villagers
+
+integrations:
+
+  one2other:
+
+    farmer_s_delight:
+      undergarden_delight: the_undergarden
+      alex_s_delight: alex_s_mobs
+      aquamirae_delight: aquamirae
+      create_slice_dice: create
+      farmer_s_delight_croptopia: croptopia
+      ice_and_fire_delight_farmer_s_delight_ice_and_fire_add_on: ice_and_fire
+      vampire_s_delight: vampirism_become_a_vampire
+      aether_s_delight: the_aether
+      twilight_s_flavors_delight: the_twilight_forest
+      ars_nouveau_s_flavors_delight: ars_nouveau
+      l_ender_s_cataclysm_delight: l_ender_s_cataclysm
+      aquaculture_delight: aquaculture_2
+
+    better_combat:
+      better_combat_x_apotheosis_compat: apotheosis
+      ice_and_fire_dragons_x_better_combat: ice_and_fire
+      simple_weapons_for_better_combat: simple_weapons
+      aquamirae_x_better_combat_compatibility: aquamirae
+
+    spartan_weaponry:
+      spartan_weaponry_aether: the_aether
+      spartan_weaponry_undergarden: the_undergarden
+      spartan_weaponry_cataclysm: l_ender_s_cataclysm
+      spartan_weaponry_ice_and_fire: ice_and_fire
+      spartan_weaponry_twilight_forest: the_twilight_forest
+
+    iron_s_spells_n_spellbooks:
+      create_wizardry: create
+      ice_and_fire_spellbooks: ice_and_fire
+      cataclysm_spellbooks: l_ender_s_cataclysm
+
+    quark:
+      ascended_quark: the_aether
+
+    village_ctov:
+      ctov_all_bark_all_bites_compat
+      ctov_create_structures
+      ctov_domesticated_innovation_compat
+      ctov_floralis_compat
+      ctov_monobank_compat
+      ctov_rats_compat
+      ctov_savage_and_ravage_compat
+      ctov_wares_compat
+
+    loot_integrations:
+      loot_integrations_ati_structures_epic_structures_villages_witch_huts: ati_structures_epic_structures_villages_witch_huts
+      loot_integrations_awesome_dungeon: awesome_dungeon
+      loot_integrations_better_archeology: better_archeology
+      loot_integrations_born_in_chaos: born_in_chaos
+      loot_integrations_bygone_nether_eternal_nether_it_takes_a_pillage: bygone_nether_eternal_nether_it_takes_a_pillage
+      loot_integrations_choicetheorem_s_overhauled_village_immersive_structures: choicetheorem_s_overhauled_village_immersive_structures
+      loot_integrations_dungeon_crawl: dungeon_crawl
+      loot_integrations_dungeons_and_taverns: dungeons_and_taverns
+      loot_integrations_dungeons_plus: dungeons_plus
+      loot_integrations_formations_overworld_nether: formations_overworld_nether
+      loot_integrations_hopo_better_mineshaft_ruins_portals: hopo_better_mineshaft_ruins_portals
+      loot_integrations_ice_and_fire: ice_and_fire
+      loot_integrations_integrated_dungeons_villages_strongholds_cataclysm: integrated_dungeons_villages_strongholds_cataclysm
+      loot_integrations_l_ender_s_cataclysm: l_ender_s_cataclysm
+      loot_integrations_medieval_buildings_end_nether: medieval_buildings_end_nether
+      loot_integrations_moog_s_voyager_soaring_end_nether_structures: moog_s_voyager_soaring_end_nether_structures
+      loot_integrations_philip_s_ruins: philip_s_ruins
+      loot_integrations_randomized_loot_compatibility: randomized_loot_compatibility
+      loot_integrations_structory_towers: structory_towers
+      loot_integrations_the_graveyard: the_graveyard
+      loot_integrations_the_lost_castle: the_lost_castle
+      loot_integrations_underground_villages_stoneholm: underground_villages_stoneholm
+      loot_integrations_valhelsia_structures: valhelsia_structures
+
+  manual:
+    create_structures_overhaul_bop_integration:
+      depends_mods:
+        - create_structures_overhaul
+        - biomes_o_plenty
+    create_create_o_plenty_create_biomes_o_plenty_mod_compat:
+      depends_mods:
+        - create
+        - biomes_o_plenty
+    creather:
+      depends_mods:
+        - create
+        - the_aether
+    jadecolonies:
+      depends_mods:
+        - jade
+        - minecolonies
+    umbral_skies:
+      depends_mods:
+        - the_aether
+        - the_twilight_forest
+    simply_swords_cataclysm:
+      depends_mods:
+        - simply_swords_fabric_forge
+        - l_ender_s_cataclysm
+    cataclysm_spellbooks_bettercombat_compatibility:
+      depends_mods:
+        - iron_s_spells_n_spellbooks
+        - l_ender_s_cataclysm
+        - better_combat
+    xaero_s_minimap_world_map_waystones_compatibility_forge:
+      depends_mods:
+        - xaero_s_world_map
+        - waystones
+      or_samecondition:
+        - xaero_s_minimap_and_waystones_compatibility
+    cataclysm_x_yung_s_better_nether_fortresses_compat:
+      depends_mods_compound:
+        and:
+          l_ender_s_cataclysm:
+          or:
+            - yung_s_better_nether_fortresses_neoforge
+            - yung_s_better_nether_fortresses_forge_neoforge
