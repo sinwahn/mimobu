@@ -1,0 +1,39 @@
+version: 1.20.1
+modloader: neoforge
+allow_integrations: true
+cf_api_key: "YOYRKEY"
+modules:
+  - minecolonies
+  - optimizaion
+  - create
+  - betweenlands
+  - undergarden
+  - iron_s_spells_n_spellbooks
+
+  - alex_s_mobs
+
+  - l_ender_s_cataclysm
+
+  - enchantmentAddons
+  - book_info
+
+  - me
+  - ui
+  - items
+  - emi
+  - farmer_s_delight
+
+  - biomes_o_plenty
+
+  - dim
+  - yung
+
+  - graveyard
+  - aether
+
+  - enigmatic_legacy
+  - apotheosis
+  
+addition:
+  mods:
+  packages:
