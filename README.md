@@ -1,4 +1,4 @@
-*intended to speed up the process of **endless scrolling of mod pages** AND **surpises of version/modlauncher incompatibility** AND **searching for integration mods**
+*intended to speed up the process of* **endless scrolling of mod pages** AND **surpises of version/modlauncher incompatibility** AND **searching for integration mods**
 
 Clone the repo in the PrismLauncher folder
 
@@ -7,5 +7,5 @@ Clone the repo in the PrismLauncher folder
 2. Specify what you want in `build.yaml`
 3. Just run it, and it will resolve dependencies and download everything
 
-populate assets by hand or with `prismAssetDumper.ps1`, which grabs everything you have installed
-, all you have to do is add or change stuff in `modules.yaml`
+populate assets by hand or with `prismAssetDumper.ps1`, which grabs everything you have installed,
+all you have to do is add or change stuff in `modules.yaml`
