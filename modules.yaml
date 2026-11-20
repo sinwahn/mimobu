@@ -142,7 +142,9 @@ main_modules:
     mods:
       - jade
       - jade_addons_neo_forge
-  optimizaion:
+  optimization:
+    aliases:
+      - optimizaion  # the old spelling, still accepted
     mods:
       - memory_leak_fix
       - entity_culling
@@ -336,15 +338,15 @@ integrations:
     quark:
       ascended_quark: the_aether
 
-    village_ctov:
-      ctov_all_bark_all_bites_compat
-      ctov_create_structures
-      ctov_domesticated_innovation_compat
-      ctov_floralis_compat
-      ctov_monobank_compat
-      ctov_rats_compat
-      ctov_savage_and_ravage_compat
-      ctov_wares_compat
+    choicetheorem_s_overhauled_village:
+      ctov_all_bark_all_bites_compat: all_bark_all_bites
+      ctov_create_structures: create_structures
+      ctov_domesticated_innovation_compat: domesticated_innovation
+      ctov_floralis_compat: floralis
+      ctov_monobank_compat: monobank
+      ctov_rats_compat: rats
+      ctov_savage_and_ravage_compat: savage_ravage
+      ctov_wares_compat: wares
 
     loot_integrations:
       loot_integrations_ati_structures_epic_structures_villages_witch_huts: ati_structures_epic_structures_villages_witch_huts
