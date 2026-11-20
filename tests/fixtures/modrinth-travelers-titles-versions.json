@@ -1,0 +1,27 @@
+[
+  {
+    "id": "oUSK4sOQ",
+    "project_id": "JtifUr64",
+    "version_number": "1.20-Forge-4.0.2",
+    "loaders": [
+      "forge"
+    ],
+    "game_versions": [
+      "1.20",
+      "1.20.1"
+    ],
+    "files": {
+      "url": "https://cdn.modrinth.com/data/JtifUr64/versions/oUSK4sOQ/TravelersTitles-1.20-Forge-4.0.2.jar",
+      "filename": "TravelersTitles-1.20-Forge-4.0.2.jar",
+      "primary": true,
+      "hashes": {
+        "sha1": "64a435eaa6e08fff5af2c720c3b6a40fe292f2f7"
+      }
+    },
+    "dependencies": {
+      "project_id": "Ua7DFN59",
+      "version_id": null,
+      "dependency_type": "required"
+    }
+  }
+]

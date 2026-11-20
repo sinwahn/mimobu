@@ -1,0 +1,40 @@
+[
+  {
+    "id": "HC1XRKGD",
+    "project_id": "50dA9Sha",
+    "version_number": "1.11.2",
+    "loaders": [
+      "minecraft"
+    ],
+    "game_versions": [
+      "1.20",
+      "1.20.1",
+      "1.20.2",
+      "1.20.3",
+      "1.20.4",
+      "1.20.5",
+      "1.20.6",
+      "1.21",
+      "1.21.1",
+      "1.21.10",
+      "1.21.11",
+      "1.21.2",
+      "1.21.3",
+      "1.21.4",
+      "1.21.5",
+      "1.21.6",
+      "1.21.7",
+      "1.21.8",
+      "1.21.9"
+    ],
+    "files": {
+      "url": "https://cdn.modrinth.com/data/50dA9Sha/versions/HC1XRKGD/FreshAnimations_v1.11.2_1.20%2B.zip",
+      "filename": "FreshAnimations_v1.11.2_1.20+.zip",
+      "primary": true,
+      "hashes": {
+        "sha1": "c0f564f3b9c12762923015eefad53edbdbbd3d96"
+      }
+    },
+    "dependencies": null
+  }
+]
